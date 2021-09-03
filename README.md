@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**Jaywilde/Jaywilde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+自我介绍😆
 
-Here are some ideas to get you started:
+姓名：王嘉杰  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+学号：3119005474  
+ 
+班别：19 信息安全 2 班  
+
+Github：<https://github.com/Jaywilde>   
+
+兴趣：拼高达，看书，出去旅行
+
+学习目标：专注于提高学习水平，争取达到3.5以上的绩点；做好自己的社团工作，使社团能够平稳地向前发展；从今年九月份开始逐步进入考研的准备状态，提前开始复习大一大二的薄弱科目
